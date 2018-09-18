@@ -60,4 +60,12 @@ edit the document on Github, and send a PR.
       <pre class="mt-2 mb-0">mos flash stm32</pre>
     </div>
   </div>  
+  <div class="card my-3 shadow">
+    <div class="card-header font-weight-bold text-muted">Hardkernel ODROID-GO <a class="float-right" href="https://www.hardkernel.com/main/shop/good_list.php?lang=en">Buy on hardkernel.com</a></div>
+    <div class="card-body">
+      <img class="img-fluid" src="images/ODROID-GO.jpg" style="max-height: 140px;" />
+      WiFi, BT, ILI9341 TFT 320x240, 4MB (PS)RAM, 16M Flash, SD card slot, Battery, Speaker, 9 Pushbuttons, Powerswitch
+      <pre class="mt-2 mb-0">mos flash esp32</pre>
+    </div>
+  </div>
 </div>
