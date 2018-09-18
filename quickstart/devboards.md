@@ -64,7 +64,7 @@ edit the document on Github, and send a PR.
     <div class="card-header font-weight-bold text-muted">Hardkernel ODROID-GO <a class="float-right" href="https://www.hardkernel.com/main/shop/good_list.php?lang=en">Buy on hardkernel.com</a></div>
     <div class="card-body">
       <img class="img-fluid" src="images/ODROID-GO.jpg" style="max-height: 140px;" />
-      ESP32, WiFi, BT, ILI9341 TFT 320x240, 4MB (PS)RAM, 16M Flash, SD card slot, Battery, Speaker, 9 Pushbuttons, Powerswitch
+      ESP32, WiFi, BT, 2.4" TFT, 4MB (PS)RAM, 16M Flash, SD card, Battery, Speaker, 9 Buttons, Powersw.
       <pre class="mt-2 mb-0">mos flash esp32</pre>
 Specific GPIO settings <a class="float-right" href="resources/odroid-go-conf2.json">conf2.json</a>
   Add with <pre class="mt-2 mb-0">mos put conf2.json</pre>
