@@ -66,7 +66,8 @@ edit the document on Github, and send a PR.
       <img class="img-fluid" src="images/ODROID-GO.jpg" style="max-height: 140px;" />
       ESP32, WiFi, BT, ILI9341 TFT 320x240, 4MB (PS)RAM, 16M Flash, SD card slot, Battery, Speaker, 9 Pushbuttons, Powerswitch
       <pre class="mt-2 mb-0">mos flash esp32</pre>
-<div>Specific GPIO settings <a class="float-right" href="resources/odroid-go-conf2.json">conf2.json</a></div>  
+Specific GPIO settings <a class="float-right" href="resources/odroid-go-conf2.json">conf2.json</a>
+  Add with <pre class="mt-2 mb-0">mos put conf2.json</pre>
     </div>
   </div>
 </div>
